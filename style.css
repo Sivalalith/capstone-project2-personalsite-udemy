@@ -1,0 +1,76 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.brand-font {
+    font-family: 'Agbalumo' , sans-serif;
+    color: #00A9FF;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-img {
+    flex: 2;
+}
+
+.profile-tagline {
+    flex: 3;
+    font-family: 'Agbalumo' , sans-serif;
+    font-size: 40px;
+    color: #00A9FF;
+}
+
+#projects h2 {
+    font-family: 'Agbalumo' , sans-serif;
+    text-align: center;
+    color: #00A9FF;
+}
+
+#projects h3, #projects p {
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center;
+    color: #308FBF;
+}
+
+#about-me h2 {
+    font-family: 'Agbalumo' , sans-serif;
+    text-align: center;
+    color: #00A9FF;
+}
+
+#about-me p {
+    font-family: 'Libre Franklin', sans-serif;
+    color: #308FBF;
+}
+
+#contact-me h2 {
+    font-family: 'Agbalumo' , sans-serif;
+    text-align: center;
+    color: #00A9FF;
+}
+
+#contact-me h3, #contact-me p {
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center;
+    color: #308FBF;
+}
+
+.button {
+    font-size: 18px;
+    border-radius: 8px;
+    color: white;
+    background-color: #00A9FF;
+    border-style: none;
+}
+
+#contact-me footer{
+    background-color: #FFDFDF;
+}
+
+#navbar {
+    background-color: #FFDFDF;
+}
